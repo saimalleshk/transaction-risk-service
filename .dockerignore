@@ -3,4 +3,9 @@ __pycache__/
 *.py[cod]
 .pytest_cache/
 .git/
+.github/
+tests/
+transaction-risk/
+k8s/
+training/
 .env
